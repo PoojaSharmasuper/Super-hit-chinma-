@@ -1,4 +1,3 @@
-Super 4 crezy:
 # Credit - JISSHU BOTS
 # Modified By NBBotz
 # Some Codes Are Taken From A GitHub Repository And We Forgot His Name
